@@ -1,0 +1,2 @@
+# Data-Driven-Insights-from-the-Tokyo-Olympics-Unveiling-Performance-Participation-and-Parity
+Explore an in-depth analysis of the Tokyo Olympics, focusing on athlete participation, coaching trends, and medal distributions across nations and sports. This project leverages comprehensive datasets to provide a holistic view of the games, highlighting patterns in gender distribution, team compositions, and country-wise performances.
